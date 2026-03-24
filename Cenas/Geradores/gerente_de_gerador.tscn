@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://o8ct8rky0b4a"]
+
+[node name="GerenteDeGerador" type="Node2D" unique_id=1820187999]
+
+[node name="GeradorSalas" type="Node" parent="." unique_id=122714885]
+
+[node name="GeradorCorredores" type="Node" parent="." unique_id=809461142]
+
+[node name="DungeonRender" type="TileMapLayer" parent="." unique_id=1284254174]
